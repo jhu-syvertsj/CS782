@@ -1,4 +1,4 @@
 CS782
 =====
 
-java web development at JHU
+JHU java web development 
